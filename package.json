@@ -4,6 +4,8 @@
   "description": "MongoDB stream for bunyan",
   "main": "./lib/bunyan-mongo",
   "dependencies": {
+    "mongo-col": "^0.2.5",
+    "mongo-stream": "^0.1.0"
   },
   "devDependencies": {
     "bunyan": "^1.3.5",
