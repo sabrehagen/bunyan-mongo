@@ -1,7 +1,7 @@
 {
-  "name": "bunyan-jut",
+  "name": "bunyan-mongo",
   "version": "0.0.8",
-  "description": "jut stream for bunyan",
+  "description": "MongoDB stream for bunyan",
   "main": "./lib/bunyan-mongo",
   "dependencies": {
   },
@@ -15,23 +15,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/qualitybath/bunyan-jut"
+    "url": "https://github.com/sabrehagen/bunyan-mongo"
   },
   "keywords": [
     "logging",
-    "jut",
     "bunyan",
     "log",
     "logger",
     "transport",
     "stream",
-    "jut.io"
+    "mongodb"
   ],
   "scripts": {
     "test": "istanbul cover _mocha --report lcovonly"
   },
   "bugs": {
-    "url": "https://github.com/sabrehagen/bunyan-jut/issues"
+    "url": "https://github.com/sabrehagen/bunyan-mongo/issues"
   },
   "contributors": [
     {
