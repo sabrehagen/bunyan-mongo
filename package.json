@@ -2,7 +2,7 @@
   "name": "bunyan-jut",
   "version": "0.0.8",
   "description": "jut stream for bunyan",
-  "main": "./lib/bunyan-jut",
+  "main": "./lib/bunyan-mongo",
   "dependencies": {
   },
   "devDependencies": {
